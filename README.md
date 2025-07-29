@@ -64,8 +64,8 @@ the [official website](https://bun.sh/docs/installation).
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
-   cd next-basket-task-1
+   git clone git@github.com:market-4-test/task-1-ws.git
+   cd task-1-ws
    ```
 
 2. **Install dependencies:**
